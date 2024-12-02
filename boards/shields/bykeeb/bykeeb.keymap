@@ -23,7 +23,7 @@
  &caps_word {
      continue-list = <UNDERSCORE MINUS>;
  };
- &kscan0 { diode-direction = "row2col"; };
+
  / {
      combos {
          compatible = "zmk,combos";
